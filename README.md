@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammed Azhar</h1>
 <h3 align="center">A passionate Flutter developer from India</h3>
 
-- 🔭 I’m currently working at [Green Creon LLP](https://github.com/Greencreon-LLP)
+- 🔭 I’m currently working at [BRANDSTREK CODERS LLP](https://www.brandstrek.com/)
 
 - 🌱 I’m currently learning **Kotlin Multiplatform**
 
